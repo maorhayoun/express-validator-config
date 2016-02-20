@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+.vscode
+node_modules
+
+example/.vscode
+example/node_modules
